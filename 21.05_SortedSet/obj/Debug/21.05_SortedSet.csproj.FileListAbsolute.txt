@@ -1,0 +1,15 @@
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.exe.config
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.exe
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.pdb
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.csprojAssemblyReference.cache
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.csproj.CoreCompileInputs.cache
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.exe
+E:\СМК\Практика\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.pdb
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.exe.config
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.exe
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\bin\Debug\21.05_SortedSet.pdb
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.exe
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.pdb
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.csproj.AssemblyReference.cache
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.csproj.SuggestedBindingRedirects.cache
+F:\Программирование\C#\21.05_SortedSet\21.05_SortedSet\obj\Debug\21.05_SortedSet.csproj.CoreCompileInputs.cache
